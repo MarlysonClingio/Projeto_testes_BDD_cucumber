@@ -3,7 +3,7 @@
 <h3>Objetivo</h3>
 Projeto de testes de um sistema web, realizado pelo professor "Francisco Wagner Costa Aquino” do curso “Aprenda BDD com cucumber em JAVA” da plataforma de ensino UDEMY, como intuito de praticar os conceitos passados enquanto se decorre o curso. Assuntos alcançados no projeto:<br>
 
-<br>• Linguagem de programação Ruby<br>
+<br>• Linguagem de programação Java<br>
 • BDD(Behavior Driven Development) - Desenvolvimento Guiado por Comportamento<br>
 • Cucumber framework<br>
 • Gherkin<br>
